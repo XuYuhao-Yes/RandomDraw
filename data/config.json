@@ -1,3 +1,9 @@
 {
-  "csv_path": "./data/data.csv"
+  "csv_path": "./data/data.csv",
+  "Start_prompt": "Start RandomDraw!",
+  "word_size": 70,
+  "word_color": "gold",
+  "bg_color": "black",
+  "alpha": 0.7,
+  "title": "Random Draw"
 }
